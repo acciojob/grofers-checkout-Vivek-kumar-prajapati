@@ -4,7 +4,7 @@ document.body.appendChild(getSumBtn);
 
 const getSum = () => {
  let pricelist= document.querySelectorAll(".price");
-	conole.log(pricelist)
+	console.log(pricelist)
   
 };
 
